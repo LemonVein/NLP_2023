@@ -22,9 +22,9 @@
 
 ### **5. Test Matrix**
 
-| # | col | col1 |
+| # | name | link |
 |:--:|:--:|:--:|
-| 1 | code cells| [link]() |
+| 1 | code cells| [link](https://github.com/LemonVein/NLP_2023/blob/main/1_CodeCells_Basic.ipynb) |
 | 2 | five types | [number, string, list, tuple, dict](https://github.com/LemonVein/NLP_2023/blob/main/CodeCells_Basic__ipynb의_사본.ipynb) |
 
 ### **this is my github project [link](https://github.com/LemonVein/NLP_2023)**
