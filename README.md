@@ -28,6 +28,8 @@
 | 2 | five types | [number, string, list, tuple, dict](https://github.com/LemonVein/NLP_2023/blob/main/CodeCells_Basic__ipynb의_사본.ipynb) |
 | 3 | index slicing | [index slicing](https://github.com/LemonVein/NLP_2023/blob/main/3_Indexing_Slicing.ipynb) |
 | 4 | statement | [if]() ,[for](https://github.com/LemonVein/NLP_2023/blob/main/4_2_ForStatement.ipynb), [while](https://github.com/LemonVein/NLP_2023/blob/main/4_4_WhileStatementwContinueBreak.ipynb) |
+| 5 | regular expression | [regular expression]() |
+| 6 | function | [function]() |
 
 ### **this is my github project [link](https://github.com/LemonVein/NLP_2023)**
 
