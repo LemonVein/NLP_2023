@@ -20,7 +20,7 @@
 *[Emoji](https://gist.github.com/rxaviers/7360908)
 *[Markdown syntax](https://www.markdownguide.org/basic-syntax/)
 
-### **5. Test Matrix**
+### **5. Class Matrix**
 
 | # | name | link |
 |:--:|:--:|:--:|
@@ -30,6 +30,8 @@
 | 4 | statement | [if]() ,[for](https://github.com/LemonVein/NLP_2023/blob/main/4_2_ForStatement.ipynb), [while](https://github.com/LemonVein/NLP_2023/blob/main/4_4_WhileStatementwContinueBreak.ipynb) |
 | 5 | regular expression | [regular expression]() |
 | 6 | function | [function]() |
+| 7 | Class | [Class]() |
+| 8 | tokenization of sentences | [Read the Text](https://github.com/LemonVein/NLP_2023/blob/main/8_ReadTxtFilesImportingfrom_html.ipynb) , [install packages](https://github.com/LemonVein/NLP_2023/blob/main/9_InstallPackages_ImportModlues_CallFunctions_chatGPT.ipynb), [Try tokenization](https://github.com/LemonVein/NLP_2023/blob/main/10_Tokenization_VariousWays.ipynb), [sentence analysis](https://github.com/LemonVein/NLP_2023/blob/main/13_SentimentAnalysis_HarryPotter_AllSevenCopiesIncluded.ipynb)
 
 ### **this is my github project [link](https://github.com/LemonVein/NLP_2023)**
 
